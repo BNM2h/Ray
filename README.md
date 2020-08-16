@@ -34,13 +34,13 @@
 ## :kr: Korean Ray Tutorial List
 > 정확한 Ray curriculum을 이해하기 위해서는 `Original repository`를 확인하시는 것을 권장합니다.
 * `number`: original 순서와 무관하게 study한 순서대로 기록합니다.
-* `lesson`: 원 영문 제목으로 입력합니다. 번호와 파일형식은 생략합니다.
+* `lesson`: 원 영문 제목으로 입력하고 링크는 번역한 notebook으로 합니다. 번호와 파일형식은 생략합니다.
 * `description`: 한국어로 번역하여 입력합니다.
 * `contributor`: contribute한 순서대로 뒤에 추가하여 입력합니다.
 
 |Number|Lesson|Description|Original Notebook|Contributor|
 |:----:|:-----|:----------|:-----------:|:----------|
-|1|Introduction-to-Reinforcement-Learning|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/01-Introduction-to-Reinforcement-Learning.ipynb)|@curieuxjy @jeongeun980906|
+|1|[Introduction-to-Reinforcement-Learning](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/01-Introduction-to-Reinforcement-Learning.ipynb)|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/01-Introduction-to-Reinforcement-Learning.ipynb)|@curieuxjy @jeongeun980906|
 |2|Introduction-to-RLlib|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/02-Introduction-to-RLlib.ipynb)|@Rackhun @curieuxjy|
 |3|Introduction-to-Multi-Armed-Bandits|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/multi-armed-bandits/01-Introduction-to-Multi-Armed-Bandits.ipynb)|@jeongeun980906 @Rackhun|
 |4|lesson|description|[original]()|@|
