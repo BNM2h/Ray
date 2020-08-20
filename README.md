@@ -41,6 +41,6 @@
 |Number|Lesson|Description|Original Notebook|Contributor|
 |:----:|:-----|:----------|:-----------:|:----------|
 |1|[Introduction-to-Reinforcement-Learning](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/01-Introduction-to-Reinforcement-Learning.ipynb)|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/01-Introduction-to-Reinforcement-Learning.ipynb)|@curieuxjy @jeongeun980906|
-|2|Introduction-to-RLlib|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/02-Introduction-to-RLlib.ipynb)|@Rackhun @curieuxjy|
-|3|Introduction-to-Multi-Armed-Bandits|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/multi-armed-bandits/01-Introduction-to-Multi-Armed-Bandits.ipynb)|@jeongeun980906 @Rackhun|
+|2|[Introduction-to-RLlib|description](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/02-Introduction-to-RLlib.ipynb)|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/02-Introduction-to-RLlib.ipynb)|@Rackhun @curieuxjy|
+|3|[Introduction-to-Multi-Armed-Bandits|description](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/03-Introduction-to-Multi-Armed-Bandits.ipynb)|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/multi-armed-bandits/01-Introduction-to-Multi-Armed-Bandits.ipynb)|@jeongeun980906 @Rackhun|
 |4|lesson|description|[original]()|@|
