@@ -3,7 +3,7 @@
 :whale2: BNM2h에서 하는 Ray Study repository
 
 * Duration: `2020.08.16 - 2021.??.??`
-* Contributor: @curieuxjy @Rackhun @jeongeun980906
+* Contributor: @curieuxjy @Rackhun @jeongeun980906 @Austin0115 @pcplace
 
 ### :ballot_box_with_check: Original repository
 * [Anyscale Academy - Tutorials on Ray and Ray-based Libraries](https://github.com/anyscale/academy)
@@ -39,7 +39,7 @@
 * `contributor`: contribute한 순서대로 뒤에 추가하여 입력합니다.
 
 |Number|Lesson|Description|Original Notebook|Contributor|
-|:----:|:-----|:----------|:-----------:|:----------|
+|:----:|:-----|:----------|:---------------:|:----------|
 |1|[Introduction-to-Reinforcement-Learning](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/01-Introduction-to-Reinforcement-Learning.ipynb)|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/01-Introduction-to-Reinforcement-Learning.ipynb)|@curieuxjy @jeongeun980906|
 |2|[Introduction-to-RLlib](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/02-Introduction-to-RLlib.ipynb)|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/02-Introduction-to-RLlib.ipynb)|@Rackhun @curieuxjy|
 |3|[Introduction-to-Multi-Armed-Bandits](https://github.com/BNM2h/Ray/blob/master/korean-ray-tutorial/03-Introduction-to-Multi-Armed-Bandits.ipynb)|description|[original](https://github.com/anyscale/academy/blob/master/ray-rllib/multi-armed-bandits/01-Introduction-to-Multi-Armed-Bandits.ipynb)|@jeongeun980906 @Rackhun|
