@@ -28,7 +28,8 @@
 * :blue_book: "단단한 강화학습" 책 review
     * `rl-introduction-2nd-edit` folder
     * QnA 형식(각자 읽어보고 질문들을 모아서 해당 답을 같이 찾아보기)
-    * markdown 파일로 이름은 해당 분량의 page number로 작성 (e.g. `1-30.md`)
+    * markdown 파일로 이름은 chapter##로 작성 (e.g. `chapter01.md`)
+    * Textify: GitHub App that looks in your pushes for files with extension *.tex.md and renders it's TeX expressions as SVG images.
 
 ---
 ## :kr: Korean Ray Tutorial List
