@@ -36,12 +36,10 @@
 
 7. **편차 없는 고정 시간 간격 기법** 이 장의 대부분에서 행동 가치를 추정하기 위해 표본평균을 이용했다. 그 이유는 표본평균을 사용하면 고정 시간 간격의 경우 발생하는 초기 편하를 없앨 수 있기 때문이다(식 2.6의 분석을 참고하라). 하지만 표본평균은 완전히 만족스러운 해결책은 아니다. 비정상적 문제에서는 형편없는 성능을 보일 수 있기 때문이다. 비정상적 문제에 대해 고정 시간 간격의 장점을 유지하면서도 편차를 없애는 것이 가능할까? 한 가지 방법은 특별한 행동에 대해 n번째 보상을 처리하기 위해 다음과 같은 시간 간격을 이용하는 것이다.
 
-    $\beta_{n} \doteq \alpha / \bar{o}_{n}$
-    
-    여기서 $\alpha>0$는 계속 하용하던 고정 시간 간격이고, $\bar{o}_{n}$는 0에서 시작하는 값의 일반항이다.
-    
-    $\vec{o}_{n} \doteq \bar{o}_{n-1}+\alpha\left(1-\bar{o}_{n-1}\right), \quad \bar{o}_{0} \doteq 0, n \geq 0$인 경우
-    식 2.6과 같은 분석을 수행하여 $Q_{n}$이 초기 편차가 없는 기하급수적 최신 가중 평균임을 보여라.
+<img src="/rl-introduction-2nd-edit/tex/f6b1c9762022ba82eba3071f52dbebc9.svg?invert_in_darkmode&sanitize=true" align=middle width=75.05330744999999pt height=24.65753399999998pt/>
+여기서 <img src="/rl-introduction-2nd-edit/tex/0c837ccdd0ecd0a1381239002bf821a4.svg?invert_in_darkmode&sanitize=true" align=middle width=40.713337499999994pt height=21.18721440000001pt/>는 계속 하용하던 고정 시간 간격이고, <img src="/rl-introduction-2nd-edit/tex/ca8330851140ee56eaa532c73abce1c7.svg?invert_in_darkmode&sanitize=true" align=middle width=16.094073599999987pt height=18.666631500000015pt/>는 0에서 시작하는 값의 일반항이다.
+<img src="/rl-introduction-2nd-edit/tex/288d2b98a428380c2af27177c3432867.svg?invert_in_darkmode&sanitize=true" align=middle width=300.5712402pt height=24.65753399999998pt/>인 경우
+식 2.6과 같은 분석을 수행하여 <img src="/rl-introduction-2nd-edit/tex/64d0afab00e7391a072599284b91840f.svg?invert_in_darkmode&sanitize=true" align=middle width=21.121448699999988pt height=22.465723500000017pt/>이 초기 편차가 없는 기하급수적 최신 가중 평균임을 보여라.
 >
     
 8. **UCB 스파이크** 그림 2.4에서 UCB 알고리즘은 11번째 단계의 성능에서 뚜렷한 스파이크를 보여준다. 왜 이런 현상이 생길까? 완전히 만족스러운 답변을 하려면 11번쨰 단계에서 왜 보상이 증가하는지, 그리고 왜 이어지는 단계에서는 감소하는지를 설명해야 한다. 힌트: c=1이면 스파이크가 덜 두드러진다.
