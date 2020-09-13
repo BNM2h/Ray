@@ -27,9 +27,7 @@
 >
 
 8. <img src="/rl-introduction-2nd-edit/tex/cd1e5bc22b389e724ed3c1c236dadbdb.svg?invert_in_darkmode&sanitize=true" align=middle width=52.346134499999984pt height=21.18721440000001pt/>이고 다음과 같이 보상이 주어진다고 가정해 보자.
-
 <img src="/rl-introduction-2nd-edit/tex/db30320cf03adf828c7b7c847960ca40.svg?invert_in_darkmode&sanitize=true" align=middle width=291.97284105pt height=22.465723500000017pt/>
-    
 이때 <img src="/rl-introduction-2nd-edit/tex/8c4e06d0ac7cab63d8cb5e513560b16a.svg?invert_in_darkmode&sanitize=true" align=middle width=42.02615174999998pt height=22.465723500000017pt/>이다. <img src="/rl-introduction-2nd-edit/tex/9fce4f2c1c76c301d82c8c4d3060fc1c.svg?invert_in_darkmode&sanitize=true" align=middle width=103.910697pt height=22.465723500000017pt/>는 얼마인가? 힌트: 거꾸로 접근하라.
     
 >
